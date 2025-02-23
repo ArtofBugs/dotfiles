@@ -1,0 +1,13 @@
+# Aliases I use for git commands.
+
+alias gs="git status"
+alias gd="git diff"
+alias gdc="git diff --cached"
+alias gcm="git commit -m"
+alias gca="git commit --amend"
+alias ga="git add"
+alias gaa="git add --all"
+alias gp="git push"
+alias gsw="git switch"
+alias gb="git branch"
+alias gst="git stash"
