@@ -1,0 +1,3 @@
+# Aliases I use for tox.
+
+alias activate-tox="source .tox/py3/bin/activate"
